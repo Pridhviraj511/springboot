@@ -1,5 +1,5 @@
 @Library('shared-starter') _
-indigenous {
+indigenousPod {
   notifyEmail = "test@example.com"
   runSmokeTests = "y"
   autoDeploy = "y"
